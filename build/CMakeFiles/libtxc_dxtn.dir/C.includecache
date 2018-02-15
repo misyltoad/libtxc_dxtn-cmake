@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Code/vtflib/libtxc_dxtn/txc_compress_dxtn.c
+stdio.h
+-
+stdlib.h
+-
+txc_dxtn.h
+D:/Code/vtflib/libtxc_dxtn/txc_dxtn.h
+
+D:/Code/vtflib/libtxc_dxtn/txc_dxtn.h
+GL/gl.h
+-
+
+D:/Code/vtflib/libtxc_dxtn/txc_fetch_dxtn.c
+stdio.h
+-
+txc_dxtn.h
+D:/Code/vtflib/libtxc_dxtn/txc_dxtn.h
+

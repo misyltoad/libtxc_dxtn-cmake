@@ -1,0 +1,2 @@
+D:/msys64/mingw64/bin/ar.exe qc liblibtxc_dxtn.a  CMakeFiles/libtxc_dxtn.dir/txc_compress_dxtn.c.obj CMakeFiles/libtxc_dxtn.dir/txc_fetch_dxtn.c.obj
+D:/msys64/mingw64/bin/ranlib.exe liblibtxc_dxtn.a

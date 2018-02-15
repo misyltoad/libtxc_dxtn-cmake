@@ -1,0 +1,3 @@
+D:/Code/vtflib/libtxc_dxtn/build/CMakeFiles/rebuild_cache.dir
+D:/Code/vtflib/libtxc_dxtn/build/CMakeFiles/libtxc_dxtn.dir
+D:/Code/vtflib/libtxc_dxtn/build/CMakeFiles/edit_cache.dir
